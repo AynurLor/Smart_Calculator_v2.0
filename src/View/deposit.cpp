@@ -4,7 +4,7 @@
 
 Deposit::Deposit(QWidget* parent) : QDialog(parent), ui(new Ui::Deposit) {
   ui->setupUi(this);
-//  setFixedSize(width(), height());
+  setFixedSize(width(), height());
   ui->rate_of_payment->addItem("Раз в месяц");
   ui->rate_of_payment->addItem("Раз в три месяца");
   ui->rate_of_payment->addItem("Раз в полгода");

@@ -4,7 +4,7 @@
 
 Credit::Credit(QWidget *parent) : QDialog(parent), ui(new Ui::Credit) {
   ui->setupUi(this);
-//  setFixedSize(width(), height());
+  setFixedSize(width(), height());
 }
 
 Credit::~Credit() { delete ui; }

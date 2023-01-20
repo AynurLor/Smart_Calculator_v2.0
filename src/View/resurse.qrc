@@ -1,9 +1,12 @@
 <RCC>
     <qresource prefix="/">
+        <file>Image/ahhhhhhh.mp3</file>
         <file>Image/Button_nuber_after.png</file>
         <file>Image/Button_nuber_befor.png</file>
         <file>Image/Button_play.png</file>
         <file>Image/Button_stop.png</file>
+        <file>Image/e4ced2a4d870bc93_negate.png</file>
+        <file>Image/e4ced2a4d870bc93.png</file>
         <file>Image/Exit.png</file>
         <file>Image/fone.png</file>
         <file>Image/Game_Button_after.png</file>
@@ -11,7 +14,11 @@
         <file>Image/Game_Button_Elements (4).png</file>
         <file>Image/Game_Button_Elements (6).png</file>
         <file>Image/Game_Button_Elements (9).png</file>
+        <file>Image/icon (1).png</file>
         <file>Image/icon.png</file>
+        <file>Image/imgonline-com-ua-AutoEnrich-zXILwmaNmgPhy.jpeg</file>
         <file>Image/Menu1.png</file>
+        <file>Image/thats-amazing.mp3</file>
+        <file>Image/welcome-to-the-club.mp3</file>
     </qresource>
 </RCC>
